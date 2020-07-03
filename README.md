@@ -26,7 +26,7 @@ Se executarmos o scirpt acima, teremos esse **output**:
 > Olá Mundo! :D
 
 Exatamente o que queriamos! Parabéns!
-##### **Para criar e compilar seus própios códigos veja o guia anexado a esse ()! É muito importante que execute os passos ditos lá para acompanhar e escrever seus própios códigos durante o percurso deste guia. Não se aprende somente vendo, é necessário praticar!**
+##### **Para criar e compilar seus própios códigos veja o guia anexado a esse (Guia de Compilar)[guide_to_compile_cpp.md]! É muito importante que execute os passos ditos lá para acompanhar e escrever seus própios códigos durante o percurso deste guia. Não se aprende somente vendo, é necessário praticar!**
 
 ## **Tipos de variáveis**
 Aqui vamos ver a lista de alguns tipos primitivos de variáveis comuns em C++.
