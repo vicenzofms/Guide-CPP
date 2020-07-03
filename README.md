@@ -45,7 +45,7 @@ Aqui vamos ver a lista dos operadores mais importantes do C++
 | `==` | Igual à | `if ( x == y ){...}` |
 | `!=` | Diferente de | `if ( x != y ){...}` |
 | `&&` | e -> somente se duas condições são verdadeiras | `if ( (condicao1) && (condicao2) ){...}` |
-| `||` |ou -> se uma das condições for verdadeira | `if ( (condicao1) || (condicao2) ){...}` |
+| ` || ` |ou -> se uma das condições for verdadeira | `if ( (condicao1) || (condicao2) ){...}` |
 
 | Operadores de Atribuição | Descrição | Exemplos | 
 | ------ | ----------- | ------ |
