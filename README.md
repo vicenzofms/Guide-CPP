@@ -148,11 +148,11 @@ int main(){
 }
 ```
 Caso o nome não seja "Vicenzo" o programa só agradeçerá, porém se for, ele irá fazer um elogio. Veja os dois casos:
-> Digite seu nome: **Rian**
+> Digite seu nome: **Rian**  
 Obrigado por digitar Rian!
 
->Digite seu nome: **Vicenzo**
-Seu nome é muito bonito!
+>Digite seu nome: **Vicenzo**  
+Seu nome é muito bonito!  
 Obrigado por digitar Vicenzo!
 
 ### Else (se não)
@@ -183,12 +183,12 @@ int main(){
 }
 ```
 Vamos executar duas vezes e ver os 2 resultados possíveis agora:
-> Digite seu nome: **Enzo**
-É uma pena. ;-;
+> Digite seu nome: **Enzo**  
+É uma pena. ;-;  
 Obrigado por digitar Enzo!
 
->Digite seu nome: **Vicenzo**
-Seu nome é muito bonito!
+>Digite seu nome: **Vicenzo**  
+Seu nome é muito bonito!  
 Obrigado por digitar Vicenzo!
 
 ### Else  If (se não se)
@@ -227,20 +227,20 @@ int main(){
 }
 ```
 Vamos executar quatro vezes e ver os 4 resultados possíveis agora:
-> Digite seu nome: **Rogério**
-Seu nome é maravilhoso!
+> Digite seu nome: **Rogério**  
+Seu nome é maravilhoso!  
 Obrigado por digitar Rogério!
 
-> Digite seu nome: **Cleiton**
-Seu nome é lindo!
+> Digite seu nome: **Cleiton**  
+Seu nome é lindo!  
 Obrigado por digitar Cleiton!
 
->Digite seu nome: **Vicenzo**
-Seu nome é muito bonito!
+>Digite seu nome: **Vicenzo**  
+Seu nome é muito bonito!  
 Obrigado por digitar Vicenzo!
 
->Digite seu nome: **Alonso**
-É uma pena. ;-;
+>Digite seu nome: **Alonso**  
+É uma pena. ;-;  
 Obrigado por digitar Alonso!
 
 Aqui finalizamos a saga dos nomes! :P
@@ -333,17 +333,17 @@ int main(){
 }
 ```
 Exemplo:
-> Digite X: **10**
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
+> Digite X: **10**  
+1  
+2  
+3  
+4  
+5  
+6  
+7  
+8  
+9  
+10  
 
 ### For (para)
 Essa é a estrutura mais utilizada. Confie em mim, se você aprender a utilizar essa estrutura de repetição sua vida ficará 10 vezes mais fácil. Ela funciona baseada em uma **variável de controle**. Ou seja, o loop vai funcionar baseado nela. Veja um exemplo de sintaxe que funcionaria igual o exemplo do While (contar até 10).
@@ -369,6 +369,19 @@ int main(){
 ```
 Também se observa que eu removi a variável `contador` da declaração no início do código. Isso se dá ao fato de que agora, a variável `contador` é local e só existe dentro do bloco de código do `for`. Atenção! Com o `for` o nome de variável de controle mais comum é `i`, então não se assuste quando vê-lo.
 
+Exemplo:
+> Digite X: **10**  
+1  
+2  
+3  
+4  
+5  
+6  
+7  
+8  
+9  
+10  
+
 ## **Testando o que aprendeu!**
 Parabéns! Você chegou no final deste guia básico de C++. Agora, eu vou lhe passar um exercício que englobará tudo que aprendemos e tente resolvê-lo por si só. Ele não é fácil para iniciantes, então se esforçe. Depois de fazer/tentar, confira seu código com a solução do problema. Lembre-se, seu aprendizado em C++ não acaba aqui! Continue explorando a linguagem e fazendo projetos, sejam eles pequenos ou grandes, para sempre aprimorar seu conhecimento e se tornar cada vez mais um melhor programador! :D
 
@@ -382,12 +395,12 @@ A linha de saída deve conter uma única palavra. **"Sim"** caso o número estiv
 #### Exemplo 1:
 
 Entrada
-> Digite T: **5**
-Digite a posição 0: 1
-Digite a posição 1: 15
-Digite a posição 2: 23
-Digite a posição 3: 4
-Digite a posição 4: 73
+> Digite T: **5**  
+Digite a posição 0: 1  
+Digite a posição 1: 15  
+Digite a posição 2: 23  
+Digite a posição 3: 4  
+Digite a posição 4: 73  
 Digite X: 4
 
 Saída
@@ -396,14 +409,14 @@ Saída
 #### Exemplo 2:
 
 Entrada
-> Digite T: **7**
-Digite a posição 0: 1
-Digite a posição 1: 15
-Digite a posição 2: 23
-Digite a posição 3: 4
-Digite a posição 4: 73
-Digite a posição 5: -84
-Digite a posição 6: 29
+> Digite T: **7**  
+Digite a posição 0: 1  
+Digite a posição 1: 15  
+Digite a posição 2: 23  
+Digite a posição 3: 4  
+Digite a posição 4: 73  
+Digite a posição 5: -84  
+Digite a posição 6: 29  
 Digite X: 9
 
 Saída
